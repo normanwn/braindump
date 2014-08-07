@@ -1,7 +1,5 @@
 # Kefir - HOWTO
 
-Jenny mentioned that you already had a book about making kefir but I wanted to put together some notes about what my experience has been.
-
 ## Quick start:
 1. These grains are already active and were added to fresh whole organic milk this morning at 7:00 am.  I generally swap the kefir grains out with fresh milk about every 48 hours, though you can swap as early as 12 hours depending on your desired taste and consistency.  Generally speaking, a longer ferment will provide a more sour taste and thicker more yogurt like consistency.  Everything I have read says don't go past 48 hours, though I have had to a couple of times and nothing bad has happened.  Your mileage may vary.
 2. Place the jar (you may want to swap to something bigger) on a counter out of the sun, with the metal top off, and covered by the provided coffee filter secured with something like a rubber band.  This lets the kefir breathe and keeps any pests out.
